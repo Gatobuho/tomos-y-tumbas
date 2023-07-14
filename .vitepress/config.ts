@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/',
+  base: '/tomos-y-tumbas/',
   title: 'Tomos y Tumbas',
   description: 'The ruleset of Tomos y Tumbas TTRPG',
   themeConfig: {
