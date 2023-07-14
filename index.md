@@ -8,11 +8,11 @@ hero:
   tagline: Using classic dice in new ways and a robust group of systems.
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Core
+      link: /rules/core
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Character Creation
+      link: /rules/character_creation
 
 features:
   - title: Classless
