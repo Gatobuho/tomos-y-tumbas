@@ -30,7 +30,11 @@ Attributes are the natural abilities of your character. They are the foundation 
 
 ### Form of attributes
 
-You can find some alternative forms of attributes in the appendix. The **Keyword**
+You can find some alternative forms of attributes.
+
+**Max** [attribute] means to take the max number of your dice. ex: if your Might is d6 your Max[Mig] = 6
+
+**Mid** [attribute] means to take the mid number of your dice. ex: if your Might is d6 your Mid[Mig] = 3
 
 ## Skills
 
@@ -81,35 +85,35 @@ Your characters Origin is an overall description of all that made your character
 
 Is where your character is from. It can be a country, a city, a village, a forest, etc. This will give you a general idea of what your character knows about the world and what they are used to.
 
+Gives you 2 [Traits](#traits)
+
 ### Culture
 
 TBD
 
-Grants 1 Attribute
+Grants 1 [Attribute](#attributes) & 1 [Instinct](#instincts)
 
 ### Upbringing
 
-Grants 1 Skill
+Grants 1 [Skill](#skills)
 
 ### Profession
 
 What do you do for a living? What is your job? What is your role in society? This will give you a general idea of what your character knows about the world and what they are used to.
 
-Grants 1 Attribute & 1 Skill
+Grants 1 [Attribute](#attributes) & 1 [Skill](#skills)
 
 ## Health
 
 Health is the measure of how much damage your character can take before they die. Part of your health is your determination to live called Grit, and part of it is your physical body called Flesh.
 
-Grit is equal to [Presence](#presence) + [Endurance](#endurance)
+Grit is equal to Max [Presence](#presence) + Max [Endurance](#endurance)
 
 Flesh is equal to 4
 
-Grit is recovered by a rest (Sleep + Ration). Flesh is recovered by a Full rest (Downtime)
-
 ## Stamina
 
-In combat every action you take costs stamina. Stamina is recovered by a rest (Sleep + Ration). Stamina is equal to {formula}
+In combat every action you take costs stamina. Stamina is recovered every round. Your Stamina is equal to Mid [Endurance](#endurance) + Mid [Agility](#agility)
 
 ### Stamina Tax
 
@@ -125,7 +129,7 @@ Mana is a force that flows through the world. It is the source of all magic. Cha
 
 ### Skill progression
 
-When you use a skill and get a Critical Success or a Critical Failure you gain a skill point. You can spend this skill point to increase the dice step of the skill you used. You can only increase a skill once per session.
+When you use a skill and get a Critical Success or a Critical Failure you gain a point to that skill. You can spend this point when you make a rest to roll your skill dice. On a 1 you [Step Up](#step-up) your skill dice.
 
 ### Abilities
 
@@ -134,6 +138,32 @@ When you use a skill and get a Critical Success or a Critical Failure you gain a
 **Pillars** are massive, role-defining abilities, Costly but not exclusive.
 **Echos** are abilities that are learned and can be used multiple times.
 **Perks** are temporary abilities that are gained and lost during the course of the game.
+
+### Traits
+
+### Pillars
+
+**Combat Trance** - 
+
+**Arcane Affinity** -
+
+**Battle Stance** - 
+
+**Backstab** -
+
+**Pact Bound** -
+
+### Instincts
+
+**Dual Wilder** - When you attack with 2 weapons, your off hand weapons grant you a Ghost Dice.
+
+### Echos
+
+**Stab** -
+
+**Cleave** -
+
+**Pass without Trace** -
 
 ## Skill Checks
 

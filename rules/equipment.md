@@ -36,11 +36,14 @@ Some other bulky items may count as more than 2 [WV](#weight-value).
 
 ## Tags
 
-- **Armor Piercing** - Ignores armor
-- **Devastating** - Deals double damage
-- **Rend** - Deals 1 armor piercing damage
-- **Thrown** - Can be thrown using [Might](#might)
+- **Armor Piercing** - Ignores armors DR
+- **Devastating** - Deals an extra [Might](#might) damage
+- **Rend** - Deals at least 1 Flesh damage
+- **Thrown** - Can be discarded to attack at range
 - **Two-handed** - Requires two hands to use
 - **Versatile** - Can be used with one or two hands
 - **Recharge** - When you roll Max on the usage dice you [Step up](#dice-steps) the dice.
-- **Stamina Tax X** - When you have this item decrease your [Stamina](#stamina) by X.
+- **Taxing X** - Has [Stamina Tax](#stamina-tax) X
+- **Magic X** - Causes **X** magic damage
+- **Swift** - If you used 2 stamina to attack you can make an additional free attack.
+ 
